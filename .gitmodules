@@ -1,0 +1,24 @@
+[submodule "base"]
+	path = base
+	url = ../../ca2/windows-port-base
+	branch = main
+[submodule "common"]
+	path = common
+	url = ../../ca2/port-common
+	branch = main
+[submodule "database"]
+	path = database
+	url = ../../ca2/windows-port-database
+	branch = develop
+[submodule "graphics"]
+	path = graphics
+	url = ../../ca2/port-graphics
+	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../../ca2/port-imaging
+	branch = main
+[submodule "networking"]
+	path = networking
+	url = ../port-networking
+	branch = main
